@@ -1,10 +1,13 @@
-# Quickstart
-The purpose of this document is to guide students to start their Machine Learning university project. 
-It provides a set of tools to i) manage the literature, ii) organise the code in GitHub, iii) write clear and reproducible code, iv) log your experiments v) use the high performance computing infrastructure at UCL, and vi) writing the report.
+# Quickstart your project
+Congratulation on your project!   
+It will be a great research journey and, as every research journey, it will start from reading!
+The purpose of this document is to guide you your journey on a short-term Machine Learning project. 
+It provides: a) Directions on how to start your projects, b) Skills we expect before you start c) Resources to deepen your knowledge in Deep and Reinforcement Learning, and d) Resources on how to improve your coding skills.
 
-When starting a new project, please send an email to `lasp@live.ucl.ac.uk` with subject `Student project: <your-student-ID>, <name-surname>`.
-In the email, speficy which project you will work on, the GitHub username you will use throughout, and the url of the repository you just created.
-Please fill this form a week in advance you intend to start your project. This allows us enough time to grant the permissions necessary for you to start using GitHub.
+To start a new project, please send an email to `lasp@live.ucl.ac.uk` with subject `Student project: <your-student-ID>, <name-surname>`.
+There is a list of available projects to work on at [this link]().
+In the email, please speficy which project you will work on, the GitHub username you will use throughout, and the url of the repository you just created (see XXX for guidelines on how to create the repository).
+Please fill this form a week in advance you intend to start your project. This allows us enough time to grant you the necessary permissions on GitHub.
 
 
 --- 
@@ -18,14 +21,7 @@ Before getting started on the project, we expect the student to:
 
 If you do not meet this criteria, please consider taking the time to engage in the study of the above, before starting your project.
 The average learning time is around a full two weeks of study.
-In our experience, starting your project without the elements above could make it a very hard challenge to complete your project.
-
-
-### 1. Literature management
-There are a number of literature management software available for free, among which, we recommend:
-- [`My Library` in Google Scholar](https://scholar.google.com/scholar?scilib=1&hl=en&as_sdt=0,5)
-- [Zotero](https://www.zotero.org/)
-- [Mendeley](https://www.mendeley.com/guides/desktop/)
+In our experience, starting your project without the elements above could make it a very hard challenge to complete it.
 
 
 ### 2. Organise your code in GitHub
@@ -53,7 +49,25 @@ When writing your machine learning code, we suggest using [Pytorch](https://pyto
 Please use wandb to communicate your results with us.
 
 
-### 5. High Performance Computing (HPC) at UCL
+
+
+
+# Resources
+
+### Literature management
+There are a number of literature management software available for free, among which, we recommend:
+- [`My Library` in Google Scholar](https://scholar.google.com/scholar?scilib=1&hl=en&as_sdt=0,5)
+- [Zotero](https://www.zotero.org/)
+- [Mendeley](https://www.mendeley.com/guides/desktop/)
+
+
+
+
+
+
+
+
+### High Performance Computing (HPC) at UCL
 UCL offers a High Performance Computing infrastructure to run expensive computation. In machine learning project, especially in Deep Learning and Deep Reinforcement Learning, it is very likely that you will need one or more GPU to run your experiments.
 The Department of Electronic and Electrical Engineering has a very clear guide on the [servers available](https://intranet.ee.ucl.ac.uk/it/servers/gpu) and on how to [connect to them](https://intranet.ee.ucl.ac.uk/it/remote-access/remote-access-to-linux).
 When using these servers, please minimise the amout of computation, and don't occupy GPUs that you do not need.
@@ -65,7 +79,6 @@ When using these servers, please minimise the amout of computation, and don't oc
 ---
 
 # Starting your project
-Congratulation on your project! It will be a great research journey and, as every research journey, it will start from reading!
 In this document you can find a detailed reading list. The list is categorized into three different types of readings: 
 1. Scientific books/papers to build background knowledge that will be certainly needed during the project as well as to get you up-to-speed 
 on the literature for your project subject
