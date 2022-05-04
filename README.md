@@ -8,6 +8,28 @@ There is a list of available projects to work on at [this link]().
 In the email, please speficy which project you will work on, the GitHub username you will use throughout, and the url of the repository you just created (see XXX for guidelines on how to create the repository).
 Please fill this form a week in advance you intend to start your project. This allows us enough time to grant you the necessary permissions on GitHub.
 
+
+
+#### Tips
+Few colleagues in CS have put down this very nice set of advice for most short-term ML problems https://rockt.github.io/2018/08/29/msc-advice. 
+
+
+
+Some points we would like to reinforce from the above:
+- Before the beginning of the project, start reading background papers and books and get confident with the coding bit – this guide should help you on this. 
+
+- Have a look at our publications since usually the problems you will be working on are problems we have been already working on. You can find interesting references in our papers. 
+
+- Get a clear idea of your project: goal might be narrow at first more narrow later, but still it needs to be clear. 
+
+- Start your report since day 1, defining the target of the project, then adding the summary of the literature overview and identifying the key open problems. Then you will expand it over time. This ensures: i) that we provide you most of the feedbacks, ii) that you constantly improve your writing skills, iii) you will have half-of the job done when you will need to write your final report. 
+We recommend you to use latex but also word is excellent. A winning idea is usually to use shared files (for late overleaf does the job) so we can also provide you feedbacks from time to time. 
+
+- Come with meeting with clear questions. The best way to explain yourself is via a support (either set of slides or short report). Only in this way we can really help you. Ideally, you should provide a set of slides providing 1) the overall goal of your project, 2) what you have done so far, 2) where you are stack.      
+
+- “When things get tough the tough get going”: one goal of the project is for you to develop critical thinking being able to understand and interpret models and results. The only way to achieve this is by do not giving up. Please, do not stop at the first problem you will encounter, do not come to meetings showing results and without having an understanding (or your own understanding) on why this is happening. Read more about this in the section “1.2 ONLY LOOKING AT FINAL EVALUATION METRICS” of the guidelines linked at the beginning of the session. 
+
+
 #### Skills we expect before you start
 For a machine learning projects there are some skills that is useful to acquire or deepen:
 - Have elements of linear algebra, statistics and a rough understanding of what machine learning is.
@@ -18,8 +40,6 @@ For a machine learning projects there are some skills that is useful to acquire 
 
 If you lack some of this skills, do not worry. Lower in this guide, there is a list of free resources to bridge the gaps. Please consider taking the time to engage in the study of the above, before starting your project. The average learning time is around a full two weeks of study.
 In our experience, starting your project without the elements above could make it a very hard challenge to complete it.
-
-
 
 
 ## 1. Reading
