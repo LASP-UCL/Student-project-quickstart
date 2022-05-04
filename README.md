@@ -1,6 +1,6 @@
-# Getting started for students
+# Getting started with your project
 The purpose of this document is to guide students to start their Machine Learning university project. 
-It provides a set of tools to i) manage literature documents, ii) organise their code in GitHub, iii) write clear and reproducible code, iv) use the high performance computing infrastructure at UCL, and v) writing your report.
+It provides a set of tools to i) manage the literature, ii) organise the code in GitHub, iii) write clear and reproducible code, iv) use the high performance computing infrastructure at UCL, and v) writing the report.
 
 --- 
 ### Requirements
@@ -11,9 +11,9 @@ Before getting started on the project, we expect the student to:
 - Being able to write and run Python code
 - Know how to compartmentalise running code, for example using [virtual environments](https://docs.python.org/3/library/venv.html) and [conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
-
-If you do not meet this criteria, please consider taking the time to 
-it could be a very hard challenge to complete your project.
+If you do not meet this criteria, please consider taking the time to engage in the study of the above.
+The average learning time is around a full two weeks of study.
+In our experience, starting your project without the elements above could make it a very hard challenge to complete your project.
 
 
 ### 1. Literature management
@@ -25,7 +25,8 @@ We recommend:
 
 
 ### 2. Organise your code in GitHub
-We expect the code 
+We expect the code used to run the experiments of your project to be hosted on GitHub. 
+Because this is your own personal project, we recommend 
 If you are not familiar with Git or GitHub, [this](https://github.com/education/github-starter-course) preliminary introduction is a good start.
 
 Please use this template repository when creating a new one. [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) is how to create a new repository from a template.
