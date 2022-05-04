@@ -1,5 +1,5 @@
 # Welcome! 👋
-Congratulation on your project!   
+And congratulation on your project!   
 The purpose of this document is to guide you your journey on a short-term Machine Learning project. 
 The document is split into three main parts: the main activities in which you will be involved: i) Reading, ii) Coding and iii) Writing.
 
