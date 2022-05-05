@@ -113,7 +113,7 @@ We expect the code used to run your experiments to be hosted on GitHub. Note tha
 Because this is your own personal project, we recommend hosting it on your own GitHub page. We will then [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) your repository in the https://github.com/LASP-UCL organisation.
 If you are not familiar with Git or GitHub, [this](https://github.com/education/github-starter-course) preliminary introduction is a good start.
 
-To initiate your project, create a new repository using [this](https://github.com/LASP-UCL/Your-project-title) template. [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) is how to create a new repository from a template.
+To initiate your project, create a new repository using [this](https://github.com/LASP-UCL/Research-project) template. [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) is how to create a new repository from a template.
 
 ### Experiments log
 [Weights and Biases](https://wandb.ai/) is a great free tool to maintain a log of your experiments, and strongly suggested.
