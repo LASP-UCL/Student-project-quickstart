@@ -6,7 +6,7 @@ The document is split into three main parts: the main activities in which you wi
 To start a new project, please send an email to `lasp@live.ucl.ac.uk` with subject `Student project: <your-student-ID>, <name-surname>`.
 There is a list of available projects to work on at [this link]().
 In the email, please speficy which project you will work on, the GitHub username you will use throughout, and the url of the repository you just created (see XXX for guidelines on how to create the repository).
-Please fill this form a week in advance you intend to start your project. This allows us enough time to grant you the necessary permissions on GitHub.
+Please fill this form a week in advance you intend to start your project. This allows us to track project status.
 
 
 
